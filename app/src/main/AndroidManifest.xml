@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ro.alexmamo.firestorecleanarchitecture">
+    package="ro.hunzaautos.app">
 
     <application
-        android:name=".FirestoreCleanArchitectureApp"
+        android:name="ro.hunzaautos.app.FirestoreCleanArchitectureApp"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirestoreCleanArchitecture">
         <activity
-            android:name=".presentation.MainActivity"
+            android:name="ro.hunzaautos.app.presentation.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

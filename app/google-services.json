@@ -1,0 +1,40 @@
+
+{
+  "project_info": {
+    "project_number": "673780392916",
+    "project_id": "hunzaautos-d3a72",
+    "storage_bucket": "hunzaautos-d3a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673780392916:android:f2d8eeb2e0e359fd5aac41",
+        "android_client_info": {
+          "package_name": "ro.hunzaautos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673780392916-kdt18mkmhstskvs0fhglor09cuneg5sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJd2FTiiUSWBLZHvTDh2JAiqGRDzOeBLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673780392916-kdt18mkmhstskvs0fhglor09cuneg5sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
